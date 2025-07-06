@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     background-color: #2F5293;
     color:white;
-    background-image: linear-gradient(#3967bd,#43156e);
+    background-image: linear-gradient(#789ee4,#a36ed4);
 }
 img{
     text-align: center;
@@ -16,7 +16,7 @@ article p{
     width: 45%;
 }
 h1{
-    color:rgb(138, 199, 255);
+    color:#2F5293;
 }
 
 a{
